@@ -1,5 +1,3 @@
-# BG-portfolio-
-# BG-portfolio-
-# gracy
-# gracy
-# gracy
+#gracy-portfolio
+- This my first portfolio while learning html
+
